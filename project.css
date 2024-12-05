@@ -1,0 +1,54 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+table{
+    text-align: center;
+    
+}
+
+
+
+
+
+td{
+    width: 50px;
+    height: 50px;
+    border-radius: 0px;
+
+
+}
+.name{
+    line-height: 0%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.number{
+    line-height: 0%;
+    font-size: 15px;
+font-weight: bold;
+}
+.cat1{
+    background-color: rgba(222, 92, 187, 0.855);
+}
+.cat2{
+    background-color: rgba(224, 171, 101, 0.904);
+}
+.cat3{
+    background-color: rgba(158, 161, 169, 0.805);
+}
+.cat4{
+    background-color: rgba(132, 7, 132, 0.832);
+}
+.cat5{
+    background-color: rgb(50, 153, 178);
+}
+.cat6{
+    background-color: rgb(236, 207, 19);
+}
+.table2 td {
+    background-color: rgb(35, 208, 43);
+
+}
